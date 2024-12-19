@@ -1,0 +1,7 @@
+Логин и пароль проекта 
+Логин: Artyom_Baryshnikov
+Пароль: 9fmn99ko
+
+Ссылки на прототипы 
+UX: https://www.figma.com/design/EztkUYEDItIIFxdHc9oTLU/UX_EM?node-id=41-20&m=dev&t=7wFV7MA6QhTQOd0Q-1
+UI: https://www.figma.com/design/GCFqxqwTEsk1SaTEkfmxS4/UI_EM?node-id=17-3&m=dev&t=v3BH5CCSfuJSaWDu-1
